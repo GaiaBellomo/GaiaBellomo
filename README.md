@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaiaBellomo
 - 👀 I’m interested in Law and Tech
-- 🌱 I’m currently learning CS50 for Lawyers
+- 🌱 I’m currently learning CS50 for Lawyers and I'm a UAB's PhD candidate.
 - 💞️ I’m looking to collaborate on Digital Identity, Privacy, Blockchain, Painting, etc.
 - 📫 How to reach me gaia.bellomo@icab.cat
 
